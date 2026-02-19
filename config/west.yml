@@ -26,12 +26,12 @@ manifest:
     # Sensor-rotation
     - name: zmk-feature-sensor_rotation
       remote: hsgw
-      revision: v0.3
+      revision: main
 
     # LED
     - name: zmk-rgbled-widget  # <-- led
       remote: caksoylar
-      revision: main
+      revision: v0.3
       
   self:
     path: config
