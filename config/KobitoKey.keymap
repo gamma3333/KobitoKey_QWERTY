@@ -142,7 +142,7 @@
         layer1 {
             bindings = <
 &kp PERCENT  &kp DOLLAR    &kp JP_AMPERSAND  &kp JP_YEN    &kp MINUS     &kp JP_ASTERISK    &kp JP_LBRACKET  &kp JP_RBRACKET   &kp SEMI      &kp JP_COLON
-&kp JP_AT    &kp POUND     &kp EXCLAMATION   &kp QUESTION  &kp JP_PLUS   &kp SLASH          &kp JP_LPAREN    &kp JP_RPAREN     &kp JP_QUOTE  &kp JP_DQUOTE
+&kp JP_AT    &kp POUND     &kp EXCLAMATION   &kp QUESTION  &kp JP_PLUS   &kp KP_SLASH       &kp JP_LPAREN    &kp JP_RPAREN     &kp JP_QUOTE  &kp JP_DQUOTE
 &trans       &kp JP_TILDE  &trans            &kp JP_CARET  &kp JP_EQUAL  &kp JP_UNDERSCORE  &kp LESS_THAN    &kp GREATER_THAN  &trans        &trans
 &trans       &trans        &trans            &trans        &trans        &trans             &trans           &trans            &trans        &trans
             >;
